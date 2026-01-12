@@ -1,6 +1,4 @@
-# ONLYWORKS_DIST
-
-## OnlyWorks Desktop
+# OnlyWorks Desktop
 
 **Smart Productivity Monitoring & Activity Analytics**
 
