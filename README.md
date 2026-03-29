@@ -101,15 +101,13 @@ Ensure OnlyWorks Desktop has the necessary permissions in your system settings. 
 - All activity analysis is processed securely
 - Screenshots are not stored—only text content is analyzed
 - Your data is encrypted in transit and at rest
-- Review our [Privacy Policy](https://onlyworks.app/privacy) for details
+- Review our [Privacy Policy](https://only-works.com/privacy) for details
 
 ---
 
 ## Support
 
-- **Issues & Feedback**: [GitHub Issues](https://github.com/onlyworks/desktop/issues)
-- **Documentation**: [Help Center](https://onlyworks.app/help)
-- **Contact**: support@onlyworks.app
+- **Contact**: support@only-works.com
 
 ---
 
