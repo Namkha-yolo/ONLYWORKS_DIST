@@ -1,8 +1,8 @@
-version: 3.6.1
+version: 3.6.2
 files:
-  - url: OnlyWorks-Desktop-Setup-3.6.1.exe
-    sha512: cDgEXrP/Omaq1EN1Sp3qbVL5cni4bi0w1ZPC8tYYqsGKS/LIkZ644OIMLK7zZjeE7bzLnlQ6CXV50M/e+auD/w==
-    size: 91417402
-path: OnlyWorks-Desktop-Setup-3.6.1.exe
-sha512: cDgEXrP/Omaq1EN1Sp3qbVL5cni4bi0w1ZPC8tYYqsGKS/LIkZ644OIMLK7zZjeE7bzLnlQ6CXV50M/e+auD/w==
-releaseDate: '2026-03-31T17:57:21.810Z'
+  - url: OnlyWorks-Desktop-Setup-3.6.2.exe
+    sha512: kBydFdTvxMkct3QrHU2gHb5laI1xBeOTCYwmuFqx6/R2XHGSb9U5JnRHgLk4+u1ILFWtvo7g4QgOinkArqKGIw==
+    size: 91417467
+path: OnlyWorks-Desktop-Setup-3.6.2.exe
+sha512: kBydFdTvxMkct3QrHU2gHb5laI1xBeOTCYwmuFqx6/R2XHGSb9U5JnRHgLk4+u1ILFWtvo7g4QgOinkArqKGIw==
+releaseDate: '2026-03-31T18:36:50.099Z'
