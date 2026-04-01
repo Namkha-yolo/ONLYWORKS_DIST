@@ -1,8 +1,8 @@
-version: 3.7.0
+version: 3.7.2
 files:
-  - url: OnlyWorks-Desktop-Setup-3.7.0.exe
-    sha512: R7ecEDqEXs4Z/i6uvjakuhM//xEiv/dUcxSpQS2jgVgfF0sV8/rW24RcQgTirMnanGhvfA7ntceSeNIJyrmicQ==
-    size: 91416334
-path: OnlyWorks-Desktop-Setup-3.7.0.exe
-sha512: R7ecEDqEXs4Z/i6uvjakuhM//xEiv/dUcxSpQS2jgVgfF0sV8/rW24RcQgTirMnanGhvfA7ntceSeNIJyrmicQ==
-releaseDate: '2026-04-01T00:56:14.479Z'
+  - url: OnlyWorks.Desktop.Setup.3.7.2.exe
+    sha512: VmDsqOSPrMW7fOQWkLSAEGo2ruQ8lOBs2QWi8HkvoI1L34KCgmzfqu7ocoiOYQBgxe5rxy+SpUMMjLIRlOm/nA==
+    size: 91415754
+path: OnlyWorks.Desktop.Setup.3.7.2.exe
+sha512: VmDsqOSPrMW7fOQWkLSAEGo2ruQ8lOBs2QWi8HkvoI1L34KCgmzfqu7ocoiOYQBgxe5rxy+SpUMMjLIRlOm/nA==
+releaseDate: '2026-04-01T01:35:31.406Z'
