@@ -1,17 +1,17 @@
-version: 3.6.3
+version: 3.6.4
 files:
-  - url: OnlyWorks-Desktop-3.6.3-mac.zip
-    sha512: 2WNH1HdmP9Dtb/LNyAp2Z2SMbHSN7zHSg0f7xkLDel6jANZIJfE/pSSbNqkLk1zsFA166qffHYe3syt37uqvwA==
-    size: 117673586
-  - url: OnlyWorks-Desktop-3.6.3-arm64-mac.zip
-    sha512: Z40fS8RCTRJZuejWobig9A+d5ubl6MTTqUEFv0XAirK2PoEYIIcMa/XjDom/m6PjoNjpExf69WjAQ08w2DOKrw==
-    size: 110606713
-  - url: OnlyWorks-Desktop-3.6.3.dmg
-    sha512: xbDZ1jvncF9WsaTu1ycD4bVH8EvNZJczjddvQLHH2HZo935LRUg/K8o/K8p6/c3RIOOnI+ocOXtErdYLbwGhVA==
-    size: 122576093
-  - url: OnlyWorks-Desktop-3.6.3-arm64.dmg
-    sha512: ME3JS53/41A4gLrSoRVakpWJqrl9oQgVf7/ujJk2bOb+Okm36TOApLoudJDeh5H5KZ1y8ims+tGkzN/Fm5u18Q==
-    size: 115530889
-path: OnlyWorks-Desktop-3.6.3-mac.zip
-sha512: 2WNH1HdmP9Dtb/LNyAp2Z2SMbHSN7zHSg0f7xkLDel6jANZIJfE/pSSbNqkLk1zsFA166qffHYe3syt37uqvwA==
-releaseDate: '2026-03-31T23:12:40.858Z'
+  - url: OnlyWorks-Desktop-3.6.4-mac.zip
+    sha512: fV4+s1kWelXLDsAKWKVoMMLmtO6yJLtV8/2uZyYGwoscCVheA7rZiBMU0Nu9ICkVfEZdDNFBaybCahmQU884zw==
+    size: 117672454
+  - url: OnlyWorks-Desktop-3.6.4-arm64-mac.zip
+    sha512: un94Ja+1NIAoAU72g+W4j5wHO5dywTS8fhnrEEBr4I3QO2aBMWMpW0/bP4RX0a8kta0euGvUWC9hWZx8nulqGw==
+    size: 110605570
+  - url: OnlyWorks-Desktop-3.6.4.dmg
+    sha512: Egr6iPHxjaDSfSZjFu89Gq1K5qZiERnmhIFMVQfLQdfvXFvbyoeRKhAHk3wojgCzg2o9lA50/mwxzUVOIaZPPA==
+    size: 122536852
+  - url: OnlyWorks-Desktop-3.6.4-arm64.dmg
+    sha512: ebngxlewE+iT/pF1EQAf4zUQdamgk0sutelPs0XmgCh+E+voa0mSAoHU/C1v9a51WaTPk9HMSsM8vsABbK02og==
+    size: 115529042
+path: OnlyWorks-Desktop-3.6.4-mac.zip
+sha512: fV4+s1kWelXLDsAKWKVoMMLmtO6yJLtV8/2uZyYGwoscCVheA7rZiBMU0Nu9ICkVfEZdDNFBaybCahmQU884zw==
+releaseDate: '2026-03-31T23:37:23.933Z'
