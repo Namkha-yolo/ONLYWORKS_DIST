@@ -1,8 +1,8 @@
-version: 3.8.0
+version: 3.8.1
 files:
-  - url: OnlyWorks.Desktop.Setup.3.8.0.exe
-    sha512: 2hqcdbQHISy0bWKThLFpYimqvOe4S9JLaCr1HSHyxmHWbg2+Yxlp47DXQWd2JMNjHI+hk3HQEyjE1MiPXJB8Gw==
-    size: 91420748
-path: OnlyWorks.Desktop.Setup.3.8.0.exe
-sha512: 2hqcdbQHISy0bWKThLFpYimqvOe4S9JLaCr1HSHyxmHWbg2+Yxlp47DXQWd2JMNjHI+hk3HQEyjE1MiPXJB8Gw==
-releaseDate: '2026-04-02T23:01:26.729Z'
+  - url: OnlyWorks.Desktop.Setup.3.8.1.exe
+    sha512: jhAGh749fmlHpfn6vvK3b6fgvsu4BT6nyORL+8AIYOZal0e+3yooJEMRtR7wGnY2hfMFn5WGvIV13sbM2gSmoA==
+    size: 91419521
+path: OnlyWorks.Desktop.Setup.3.8.1.exe
+sha512: jhAGh749fmlHpfn6vvK3b6fgvsu4BT6nyORL+8AIYOZal0e+3yooJEMRtR7wGnY2hfMFn5WGvIV13sbM2gSmoA==
+releaseDate: '2026-04-04T16:02:00.945Z'

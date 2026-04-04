@@ -1,17 +1,17 @@
-version: 3.8.0
+version: 3.8.1
 files:
-  - url: OnlyWorks.Desktop-3.8.0-x64.zip
-    sha512: 3Hvy3afHgk820w6yk9RUA+SlG0z2LZ+8PKMfIqlmXOm3YtjIqLsHuv3pUzBuFOih7ut/V50MhI3VtacST+nv2g==
-    size: 117681492
-  - url: OnlyWorks.Desktop-3.8.0-arm64.zip
-    sha512: UiywBZoKjlCXpBNW9el7bIdmHCRBTT8Dquv0XrLX7ZTkEy4BEdhcah+CLgsSIOYQTyjaQpP9GQ40/a4do9MhPA==
-    size: 110614651
-  - url: OnlyWorks.Desktop-3.8.0-x64.dmg
-    sha512: yyh6T4EOOTMVO88eb/uC4cV9Vio1U9zG2zH6Q7J/8um6c4GaUCO89yFh4w/Vnojf3TABicfAdA86s96Xye1ETA==
-    size: 122536889
-  - url: OnlyWorks.Desktop-3.8.0-arm64.dmg
-    sha512: aYK87+DYX7EUhIzYdR/efZUhlC/tgj1pv2eo/A/3vzaE8yCjdFXBLj0kEwZnqL1Zlymo0QvSNHKdn01NeGFwuw==
-    size: 115563027
-path: OnlyWorks.Desktop-3.8.0-x64.zip
-sha512: 3Hvy3afHgk820w6yk9RUA+SlG0z2LZ+8PKMfIqlmXOm3YtjIqLsHuv3pUzBuFOih7ut/V50MhI3VtacST+nv2g==
-releaseDate: '2026-04-02T23:01:26.729Z'
+  - url: OnlyWorks.Desktop-3.8.1-x64.zip
+    sha512: UFLWCYVNIUEDVG+T2Hg/Mmzg+LFFZMmGKe5o6ckNJgt4E6OtoZJx7ksnHtriVZgGE5Z0ThNhEZh7FVQAl/PUug==
+    size: 117732275
+  - url: OnlyWorks.Desktop-3.8.1-arm64.zip
+    sha512: NmEFA7jDjs+G7KMh+YaVOqB+7QcjXkHGSxm8RcUYCGi5mjwg/D5XDTFTy2FWHmNBa6v3o8B37k+26vjRm3AWSA==
+    size: 110665387
+  - url: OnlyWorks.Desktop-3.8.1-x64.dmg
+    sha512: XYC4wMIsXJZ0MhAaV8wjh0d3B8n6/FUXNyQdmPKWqB+h9IRPOaUGkAD65iLyLdf0fEwwjd7EWmtsz4By1Ego2w==
+    size: 122602603
+  - url: OnlyWorks.Desktop-3.8.1-arm64.dmg
+    sha512: 2HE6DDwSehhgUBdxfLjJ03oJxFZHxC6ARr9APIJxavtDLcW+j77mnqW0gnw9i8eeZGBnppmg+jk926m/G3sNzQ==
+    size: 115620206
+path: OnlyWorks.Desktop-3.8.1-x64.zip
+sha512: UFLWCYVNIUEDVG+T2Hg/Mmzg+LFFZMmGKe5o6ckNJgt4E6OtoZJx7ksnHtriVZgGE5Z0ThNhEZh7FVQAl/PUug==
+releaseDate: '2026-04-04T16:02:00.945Z'
