@@ -1,17 +1,17 @@
 version: 3.9.0
 files:
   - url: OnlyWorks.Desktop-3.9.0-x64.zip
-    sha512: j3Ua41MZDHhMdjMRp7XESpWnY6ojVaInoAFBbugK4iXZH6J5PcNMQ1sg5CJJzFbKxNANemNGOCJfRCNE/aKsEQ==
-    size: 117736543
+    sha512: eInBdqFe+rBP3fQeSiTuRIQJEftBTVRVMibWmG4WXW9g3Uywikfom1tklUZNh7yQPOR98TXv/9aiG5X+EJ0Y0Q==
+    size: 117738343
   - url: OnlyWorks.Desktop-3.9.0-arm64.zip
-    sha512: Ma7I8xjAxyiFk3reN8htCuDm0MndVWVELaQuWS7q5dHqx4drLyKsIk8KI5uGU2jzSmhrITqqTKi7xEIdJHNt2Q==
-    size: 110669704
+    sha512: YEBPOhB2c5Q4kL2rwMoI5LqI7F+Dw12DlglALv9TTL8nIH/tnoN3U4eUTz//vR+/W4VTeJooApbBRR5ThFKyjg==
+    size: 110671467
   - url: OnlyWorks.Desktop-3.9.0-x64.dmg
-    sha512: QJvXP/7uLRJwE4RFCzFuoVJ7QdQC24MWyQcDrxGL56A4gXRYdqJ6Wv2kfk89sK73022PzZYCCD7IoHblYgpBUQ==
-    size: 122611373
+    sha512: MTva3PGRaRsP2Iq4SNf6PuBdiAxvG97qeOY7OghZX1Tad4wpMnCNeorMQbdl/EWmpYcD1erH/UjNN9cVKhToaA==
+    size: 122608592
   - url: OnlyWorks.Desktop-3.9.0-arm64.dmg
-    sha512: Kf2xjfAeYREfCBoBHTeZVH0w9oVq5YRraNjHGSNxXVsyaMC/jPR5hjwHfJ91cM4eqtxMqgB8UOs8bKbsn74Wpg==
-    size: 115605503
+    sha512: ijXXUbbpYnadwwG5Kpe3MLWtBea7gG5Wpaf6skcMv0p6JYeJeAbj3mUYTkzBVX5TbZ2f9TvfFMSKCK0Ma8xD2w==
+    size: 115651548
 path: OnlyWorks.Desktop-3.9.0-x64.zip
-sha512: j3Ua41MZDHhMdjMRp7XESpWnY6ojVaInoAFBbugK4iXZH6J5PcNMQ1sg5CJJzFbKxNANemNGOCJfRCNE/aKsEQ==
-releaseDate: '2026-04-09T00:00:00.000Z'
+sha512: eInBdqFe+rBP3fQeSiTuRIQJEftBTVRVMibWmG4WXW9g3Uywikfom1tklUZNh7yQPOR98TXv/9aiG5X+EJ0Y0Q==
+releaseDate: '2026-04-09T20:02:16.942Z'

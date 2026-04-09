@@ -1,8 +1,8 @@
 version: 3.9.0
 files:
   - url: OnlyWorks.Desktop.Setup.3.9.0.exe
-    sha512: uHl3sc5qKUXq4XTaaNFDhT2dddq/0iZIdvhfLVHdAtSzDiZJbMDaTUCCcUYopTEhKJOpRFF5PBkauln3BiowhA==
-    size: 91415718
+    sha512: ZjzBS/xH4gYVjWv2Ubu4a9/PUwC23Um53N8IaUBBeSMZLM1ABRJbFmWqGOBE2L9Gu8fwLBlOxLijZLgIg+O1Gg==
+    size: 91416756
 path: OnlyWorks.Desktop.Setup.3.9.0.exe
-sha512: uHl3sc5qKUXq4XTaaNFDhT2dddq/0iZIdvhfLVHdAtSzDiZJbMDaTUCCcUYopTEhKJOpRFF5PBkauln3BiowhA==
-releaseDate: '2026-04-09T00:00:00.000Z'
+sha512: ZjzBS/xH4gYVjWv2Ubu4a9/PUwC23Um53N8IaUBBeSMZLM1ABRJbFmWqGOBE2L9Gu8fwLBlOxLijZLgIg+O1Gg==
+releaseDate: '2026-04-09T20:02:16.942Z'
